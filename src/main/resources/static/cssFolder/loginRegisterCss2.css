@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+#reg{
+background-color: #00FFFF;
+display: none;
+}
+#log{
+background-color: green;
+display: none;
+}
+
+
+p{
+background-color: #CABC47;
+}
+
+
+.wlj{
+background-color: yellow;
+}
+
+button{
+background-color: blue;
+
+}
